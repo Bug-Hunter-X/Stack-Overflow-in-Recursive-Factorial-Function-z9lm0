@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: stack overflow caused by exceeding recursion depth. The `factorial_bug.py` file contains a recursive factorial function that will crash for large inputs. The `factorial_solution.py` file provides a corrected iterative version that avoids the stack overflow.
